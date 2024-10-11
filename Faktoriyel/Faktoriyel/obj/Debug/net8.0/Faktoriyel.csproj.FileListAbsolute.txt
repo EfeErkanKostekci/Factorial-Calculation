@@ -1,0 +1,14 @@
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\bin\Debug\net8.0\Faktoriyel.exe
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\bin\Debug\net8.0\Faktoriyel.deps.json
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\bin\Debug\net8.0\Faktoriyel.runtimeconfig.json
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\bin\Debug\net8.0\Faktoriyel.dll
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\bin\Debug\net8.0\Faktoriyel.pdb
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\Faktoriyel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\Faktoriyel.AssemblyInfoInputs.cache
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\Faktoriyel.AssemblyInfo.cs
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\Faktoriyel.dll
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\refint\Faktoriyel.dll
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\Faktoriyel.pdb
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\Faktoriyel.genruntimeconfig.cache
+C:\Users\Efe Erkan\Desktop\C#\Faktoriyel\Faktoriyel\obj\Debug\net8.0\ref\Faktoriyel.dll
